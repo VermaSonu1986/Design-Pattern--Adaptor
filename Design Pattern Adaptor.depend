@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1628592371 source:c:\cpp\code\design pattern adaptor\library.cpp
+	<string>
+	"Library.h"
+
+1628589600 c:\cpp\code\design pattern adaptor\library.h
+	<iostream>
+	<string>
+
+1628595000 source:c:\cpp\code\design pattern adaptor\main.cpp
+	<iostream>
+	"Library.h"
+	"main.h"
+	<memory>
+
+1628592230 c:\cpp\code\design pattern adaptor\main.h
+	"Library.h"
+
